@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786313869339",
+    "project_id": "argumentor-208d9",
+    "storage_bucket": "argumentor-208d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786313869339:android:6bdba3e85dd6e27a14a0be",
+        "android_client_info": {
+          "package_name": "com.example.argumentor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOD5ygc1MGyF107AFGI689CUwY35DRLRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
